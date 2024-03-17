@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Come Together",
+    "artista": "Beatles",
+    "album": "Album: Abbey Road",
+    "imagem": "beatles.png",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut al"
+  },
+  {
+    "id": 2,
+    "nome": "Given Up",
+    "artista": "Linkin Park",
+    "album": "Album: Minutes to Midnight",
+    "imagem": "linkinPark.jpg",
+    "descricao": "É o terceiro álbum de estúdio da banda norte-americana de rock Linkin Park, lançado mundialmente no dia 14 de maio de 2007, através da Warner Bros. Records. O álbum foi produzido por Mike Shinoda e Rick Rubin."
+  },
+  {
+    "id": 3,
+    "nome": "Nome da Música 1",
+    "artista": "Artista 1",
+    "album": "Álbum 1",
+    "imagem": "linkinPark.jpg",
+    "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut al"
+  }
+]

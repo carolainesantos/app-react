@@ -4,21 +4,46 @@ export default function Footer() {
   return (
     <Container>
       <Row>
-        <Col lg={4} sm={12}>
+        <Col
+          lg={6}
+          style={{
+            padding: "20px 0",
+          }}
+        >
           <div>
             <h4>Sobre a empresa</h4>
-            <p>Av Visconde de Taunay 11111</p>
+            <p>Av Passaros de Fogo 11111</p>
           </div>
         </Col>
-        <Col lg={8} sm={12}>
+        <Col
+          lg={6}
+          style={{
+            padding: "20px 0",
+          }}
+        >
           <div>
             <h4>Redes sociais</h4>
-            <p>
-              <a href="//facebook.com" target="_blank">
-                Facebook
-              </a>
-            </p>
-            <p>Instagram</p>
+            <a
+              href="//facebook.com"
+              target="_blank"
+              style={{
+                textDecoration: "none",
+                color: "purple",
+              }}
+            >
+              Facebook
+            </a>
+            <br />
+            <a
+              href="//instagram.com"
+              target="_blank"
+              style={{
+                textDecoration: "none",
+                color: "purple",
+              }}
+            >
+              Instagram
+            </a>
           </div>
         </Col>
       </Row>

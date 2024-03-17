@@ -6,7 +6,17 @@ export default function Body() {
   return (
     <>
       <Header />
-      <Outlet />
+      <div
+        style={{
+          fontFamily: "Arial, sans-serif",
+          backgroundColor: "#f4f4f4",
+          color: "#333",
+          margin: "0",
+          padding: "20px 0px",
+        }}
+      >
+        <Outlet />
+      </div>
       <Footer />
     </>
   );
