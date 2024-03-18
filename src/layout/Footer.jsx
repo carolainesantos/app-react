@@ -28,7 +28,7 @@ export default function Footer() {
               target="_blank"
               style={{
                 textDecoration: "none",
-                color: "purple",
+                color: "#AD02FD",
               }}
             >
               Facebook
@@ -39,7 +39,7 @@ export default function Footer() {
               target="_blank"
               style={{
                 textDecoration: "none",
-                color: "purple",
+                color: "#AD02FD",
               }}
             >
               Instagram
