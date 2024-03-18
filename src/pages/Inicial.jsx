@@ -5,7 +5,6 @@ export default function Inicial() {
     <div style={{ maxWidth: "800px", margin: "0 auto", padding: "20px" }}>
       <header style={{ textAlign: "center", marginBottom: "40px" }}>
         <h1 style={{ margin: "0" }}>Melodify</h1>
-        {/* <br /> */}
         <p
           style={{
             fontSize: "18px",
