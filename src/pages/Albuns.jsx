@@ -19,7 +19,14 @@ export default function Album() {
     >
       <div>
         <h1>Albuns Disponiveis</h1>
-        <p>Os melhores albuns você encontra aqui</p>
+        <p
+          style={{
+            fontSize: "20px",
+            fontFamily: "Roboto",
+          }}
+        >
+          Os melhores albuns você encontra aqui ✨🎧
+        </p>
       </div>
       <div
         style={{

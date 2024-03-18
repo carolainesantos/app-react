@@ -11,7 +11,7 @@ export default function Sobre() {
           boxShadow: "0 2px 4px rgba(0, 0, 0, 0.1)",
         }}
       >
-        <h2>Sobre Nós</h2>
+        <h2>Sobre Nós 💛</h2>
         <p>
           Somos uma equipe apaixonada por música, comprometida em proporcionar a
           você uma experiência única e envolvente. Nosso site é dedicado a

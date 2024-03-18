@@ -33,18 +33,18 @@
   },
   {
     "id": 5,
-    "nome": "Yummy",
-    "artista": "Justin Bieber",
-    "album": "Changes",
-    "imagem": "justinBieber.jpeg",
-    "descricao": "É o quinto álbum de estúdio do cantor canadense Justin Bieber. Foi lançado em 14 de fevereiro de 2020 pela Def Jam Recordings e RBMG."
+    "nome": "Energy",
+    "artista": "Beyoncé",
+    "album": "Renaissance",
+    "imagem": "beyonce.png",
+    "descricao": "É o sétimo álbum de estúdio da cantora americana, Beyoncé, lançado em 29 de julho de 2022, através da Parkwood Entertainment e Columbia Records. É seu primeiro lançamento solo em estúdio desde Lemonade e serve como a primeira parte de uma trilogia."
   },
   {
     "id": 6,
-    "nome": "Yummy",
-    "artista": "Justin Bieber",
-    "album": "Changes",
-    "imagem": "justinBieber.jpeg",
-    "descricao": "É o quinto álbum de estúdio do cantor canadense Justin Bieber. Foi lançado em 14 de fevereiro de 2020 pela Def Jam Recordings e RBMG."
+    "nome": "Body On My Mind",
+    "artista": "Alok",
+    "album": "Controversia",
+    "imagem": "alok.jpg",
+    "descricao": "Lançado em 4 de junho de 2021. Reúne sete faixas inéditas e hits. O destaque vai para “Body On My Mind” de Alok, que já recebeu o suporte de grandes nomes como Claptone, Laidback Luke, KSHMR, Cosmic Gate, Mind Against, Yves V, entre muitos outros."
   }
 ]
